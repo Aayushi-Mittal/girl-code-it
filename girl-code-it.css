@@ -316,6 +316,13 @@ width: 100%;
 #join textarea:hover{
     border-radius: dashed 4px black;
 }
+#join form{
+    margin: 0 auto;
+    background: rgba(16, 147, 127, 0.3);
+    width:400px; 
+}
+
+
 #contact{
     padding:50px;
     background-image:url("img/testimonials.png");
